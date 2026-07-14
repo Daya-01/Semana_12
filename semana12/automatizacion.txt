@@ -1,0 +1,8 @@
+Evento: nueva causa registrada.
+Mensaje: “Nueva causa creada en la plataforma, revisa la información y comparte la petición.”
+Información que no debe enviarse por seguridad: cédulas, teléfonos, direcciones, comentarios sensibles o cualquier dato personal innecesario.
+
+Automatización posible con n8n o Telegram:
+- Cuando una causa se registra, el sistema activa un flujo automático.
+- El flujo envía un mensaje de aviso a un grupo o canal comunitario.
+- El mensaje debe limitarse a datos públicos y necesarios para la organización de la causa.
